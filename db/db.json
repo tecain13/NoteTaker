@@ -1,1 +1,12 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+    {
+        "title": "Click me to view note",
+        "text": "By clicking on notes, you can look at their content",
+        "id": 1
+    },
+    {
+        "title": "Delete this note",
+        "text": "Get rid of me by clicking the delete icon",
+        "id": 2
+    }
+]
