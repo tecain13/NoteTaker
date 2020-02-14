@@ -8,7 +8,7 @@ This application allows users to create notes, save notes, and individually dele
 
 Github repository: https://github.com/tecain13/NoteTaker
 
-Github pages site: https://tecain13.github.io/NoteTaker/
+Deployed site: https://ancient-fjord-38385.herokuapp.com/notes
 ​
 ### Problem
 
