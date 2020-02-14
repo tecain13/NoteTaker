@@ -15,7 +15,7 @@ Deployed site: https://ancient-fjord-38385.herokuapp.com/notes
 Sometimes you need a user-friendly application that allows you to organize your thoughts, hold yourself accountable, and delete notes once a task is complete
 ​
 ### Solution
-​
+
 This application allows a user to write, save, and delete individualized notes through the utilization of node.js and api/html routes. 
 ​
 ## Tech and Features Used
